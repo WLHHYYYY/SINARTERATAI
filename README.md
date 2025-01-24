@@ -1,0 +1,2 @@
+# SINARTERATAI
+deploy sinar teratai
