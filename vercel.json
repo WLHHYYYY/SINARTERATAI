@@ -30,17 +30,7 @@
         "DB_PORT": "3306",
         "DB_DATABASE": "db2024_stormtorn",
         "DB_USERNAME": "db2024_stormtorn"
-    },
-
-        "builds": [
-          {
-            "src": "index.php",
-            "use": "@vercel/php",
-            "config": {
-              "installCommand": "apt-get update && apt-get install -y libssl1.0.0"
-            }
-          }
-        ]
+    }
 
 
 
